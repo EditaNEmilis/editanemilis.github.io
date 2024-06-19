@@ -1,0 +1,10 @@
+.Links p {
+    font-style: italic;
+    font-size: 18px;
+}
+
+.Links button {
+    display: block;
+    margin-block: 10px;
+    padding-block: 5px;
+}
