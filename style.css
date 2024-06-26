@@ -1,5 +1,6 @@
+/* Body */
 body {
-    background-image: url("assets/BackgroundOpacity.png");
+    background-image: url("assets/imgs/BackgroundOpacity.png");
     background-repeat: no-repeat;
     background-position-x: 20%;
     max-width: 100%;
@@ -14,7 +15,7 @@ body {
     max-width: 700px;
     height: auto;
 } */
-
+/* Links */
 .Links p {
     font-style: italic;
     font-size: 18px;
@@ -30,4 +31,10 @@ body {
     display: block;
     margin-block: 10px;
     padding-block: 5px;
+    background-color: #aaaaaa;
+    border-radius: 5%;
+}
+/* Texts */
+.Texts {
+    width: 200px;
 }
