@@ -11,9 +11,14 @@ function VidLiiLink() {
 function DiscordLink() {
     window.open("https://discord.gg/nbD4gPN2RA")
 }
+/// Games
 // SLSG
-function SLSGLink() {
+function SLSG() {
     window.open("https://www.roblox.com/games/11629837251/Simple-LUA-Showcase-Game");
+}
+// ONaTI
+function ONaTI() {
+    window.open("https://editagaming.itch.io/onati");
 }
 /// TXTs
 // Furaffinity Finest Death Threats
