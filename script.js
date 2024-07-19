@@ -9,6 +9,11 @@ function VidLiiLink() {
     window.open("https://vidlii.com/user/ramanauskieneedita");
     console.log("..VidLii..")
 }
+// Rumble
+function RumbleLink() {
+    window.open("https://rumble.com/c/c-5907867");
+    console.log("..Rumble..")
+}
 // Discord
 function DiscordLink() {
     window.open("https://discord.gg/nbD4gPN2RA")
