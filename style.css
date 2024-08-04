@@ -16,6 +16,10 @@ body {
     height: auto;
 } */
 /* Links */
+.Links button:hover {
+    background-color: #9b9b9b;
+}
+
 .Links p {
     font-style: italic;
     font-size: 18px;
