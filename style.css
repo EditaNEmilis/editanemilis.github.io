@@ -45,3 +45,45 @@ body {
 .Texts {
     width: 200px;
 }
+
+/* Misc */
+.Misc {
+    margin: auto;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+}
+
+
+.Contact h1 {
+    font-size: 18px;
+    margin: 0;
+    font-style: italic;
+}
+
+.Contact p {
+    font-size: 14px;
+    margin: auto;
+    opacity: 0.420;
+    padding: 2.5px
+}
+
+.TODO {
+    margin: auto;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+}
+
+.TODO h1 {
+    font-size: 18px;
+    margin: 0;
+    font-style: italic;
+}
+
+.TODO p {
+    font-size: 14px;
+    margin: auto;
+    opacity: 0.75;
+    padding: 2.5px
+}
