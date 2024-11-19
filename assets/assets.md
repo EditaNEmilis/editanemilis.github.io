@@ -8,4 +8,4 @@
 
 * **imgs** - Images for the website look and others.
 
-* **txts** - Text files for viewing.
+* **txts** - Text files for viewing. One for calm, and another **not so.**
