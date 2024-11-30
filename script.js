@@ -2,6 +2,14 @@
 var click_audio = new Audio('assets/audio/click.wav');
 
 /// Links
+// Page Section
+function PageSection() {
+    window.open("https://editanemilis.github.io/page/index.html");
+    console.log("..Page Section..")
+
+    click_audio.play();
+}
+
 // Odysee
 function OdyseeLink() {
     window.open("https://odysee.com/@ramanauskiene.edita:4");
