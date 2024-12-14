@@ -4,6 +4,14 @@ body {
     width: auto;
 }
 
+button {
+    display: block;
+    margin-block: 10px;
+    padding-block: 5px;
+    background-color: #aaaaaa;
+    border-radius: 5%;
+}
+
 /* Intro */
 .Intro button:hover {
     background-color: #9b9b9b;
@@ -17,13 +25,16 @@ body {
 .Intro h1 {
     margin: 0;
     font-style: italic;
-    font-size: 18px;
+    font-size: 22px;
 }
 
-.Intro button {
-    display: block;
-    margin-block: 10px;
-    padding-block: 5px;
-    background-color: #aaaaaa;
-    border-radius: 5%;
+/* Cargo */
+.Cargo h1 {
+    margin: 0;
+    font-style: italic;
+    font-size: 22px;
+}
+
+.Cargo button:hover {
+    background-color: #9b9b9b;
 }

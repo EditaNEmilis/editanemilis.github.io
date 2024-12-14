@@ -1,5 +1,5 @@
 // Variables
-var click_audio = new Audio('assets/audio/click.wav');
+var click_audio = new Audio('../assets/audio/click.wav');
 
 /// Links
 // Odysee
