@@ -38,3 +38,15 @@ button {
 .Cargo button:hover {
     background-color: #9b9b9b;
 }
+
+/* Sub-Cargo */
+
+/* Tutorials */
+.Tutorials i {
+    color: rgba(0, 0, 0, 0.33);
+    font-weight: bold;
+}
+
+.Tutorials i:hover {
+    color: rgba(0, 0, 0, 1);
+}
