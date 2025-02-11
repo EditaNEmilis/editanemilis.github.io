@@ -22,4 +22,38 @@ button:hover {
     word-wrap: normal;
     width: 720px;
     font-size: 22px;
+    font-weight: lighter;
+}
+
+.Cargo b {
+    font-weight: bold;
+}
+
+/* Intro */
+.Intro h1 {
+    font-style: italic;
+    font-weight: 400;
+}
+
+/* Part 1 */
+.Part1 h1 {
+    margin: 15px;
+    font-size: 40px;
+}
+
+.Part1 p {
+    margin: 5px;
+    word-wrap: normal;
+    width: 720px;
+    font-size: 22px;
+}
+
+.Part1 ol {
+    width: 400px;
+    padding: 15px;
+    background-color: #FFBFBF;
+    border: 2px solid #41526B;
+    color: #41526B;
+    list-style-type: decimal;
+    margin-bottom: 10px;
 }
