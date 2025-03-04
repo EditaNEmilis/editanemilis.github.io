@@ -57,3 +57,29 @@ button:hover {
     list-style-type: decimal;
     margin-bottom: 10px;
 }
+
+/* Part 2 */
+.Part2 h1 {
+    margin: 15px;
+    font-size: 40px;
+}
+
+.Part2 p {
+    margin: 5px;
+    word-wrap: normal;
+    width: 720px;
+    font-size: 22px;
+}
+
+/* Part 3 */
+.Part3 h1 {
+    margin: 15px;
+    font-size: 40px;
+}
+
+.Part3 p {
+    margin: 5px;
+    word-wrap: normal;
+    width: 720px;
+    font-size: 22px;
+}
