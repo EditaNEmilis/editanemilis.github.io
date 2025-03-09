@@ -83,3 +83,22 @@ button:hover {
     width: 720px;
     font-size: 22px;
 }
+
+/* Gallery/Big Gallery */
+.Gallery {
+    flex: 50%;
+    max-width: 70%;
+    max-height: 70%;
+    padding: 0 0px;
+  }
+  
+.Gallery img {
+    border-radius: 10px;
+    margin-top: 10px;
+    vertical-align: middle;
+ }
+
+.BigGallery img {
+    width: 50%;
+    height: 50%;
+ }
