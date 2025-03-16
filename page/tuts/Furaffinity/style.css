@@ -102,3 +102,29 @@ button:hover {
     width: 50%;
     height: 50%;
  }
+
+ /* Part 4 */
+.Part4 h1 {
+    margin: 15px;
+    font-size: 40px;
+}
+
+.Part4 p {
+    margin: 5px;
+    word-wrap: normal;
+    width: 720px;
+    font-size: 22px;
+}
+
+/* End Part */
+.EndPart h1 {
+    margin: 15px;
+    font-size: 40px;
+}
+
+.EndPart p {
+    margin: 5px;
+    word-wrap: normal;
+    width: 720px;
+    font-size: 22px;
+}
