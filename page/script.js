@@ -9,6 +9,14 @@ function Return() {
 
     click_audio.play();
 }
+// Games
+// SWF
+function SWFGame() {
+    window.open("https://editanemilis.github.io/page/games/swf/index.html");
+    console.log("SWF game time..")
+
+    click_audio.play();
+}
 // Furaffinity
 function FA() {
     window.open("https://editanemilis.github.io/page/tuts/Furaffinity/index.html");

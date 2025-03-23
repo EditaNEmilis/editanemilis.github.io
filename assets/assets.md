@@ -8,4 +8,6 @@
 
 * **imgs** - Images for the website look and others.
 
+* **swf** - Flash SWFs, now with Ruffle support! (Plus Clickteam .mfa's, for free use)
+
 * **txts** - Text files for viewing. One for calm, and another **not so.**
