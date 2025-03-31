@@ -15,3 +15,23 @@ button {
 button:hover {
     background-color: #9b9b9b;
 }
+
+/* Cargo */
+#Cargo h1 {
+    margin: 0;
+    font-style: italic;
+    font-size: 26px;
+}
+
+#List h1 {
+    margin: 10px;
+    font-style: normal;
+    font-size: 22px
+}
+
+/* Buttons */
+
+#Buttons button {
+    width: 100px;
+    font-size: 20px;
+}
