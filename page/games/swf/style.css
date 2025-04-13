@@ -32,6 +32,13 @@ button:hover {
 /* Buttons */
 
 #Buttons button {
+    float: left;
+    margin-left: 10px;
     width: 100px;
     font-size: 20px;
+}
+
+#Buttons button:after {
+    display: table;
+    clear: both;
 }
