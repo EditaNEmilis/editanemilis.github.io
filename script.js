@@ -38,21 +38,6 @@ function DiscordLink() {
 
     click_audio.play();
 }
-/// Games
-// SLSG
-function SLSG() {
-    window.open("https://www.roblox.com/games/11629837251/Simple-LUA-Showcase-Game");
-    console.log("..Simple LUA Showcase Game..")
-
-    click_audio.play();
-}
-// ONaTI
-function ONaTI() {
-    window.open("https://editagaming.itch.io/onati");
-    console.log("..One NIGHT at Treasure Island, half-baked..")
-
-    click_audio.play();
-}
 /// TXTs
 // Furaffinity Finest Death Threats
 function FFDT1(url, name) {
