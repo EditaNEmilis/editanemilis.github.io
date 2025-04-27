@@ -71,7 +71,6 @@ body {
 .TODO {
     margin: auto;
     width: 100%;
-    bottom: 0;
     text-align: center;
 }
 
@@ -83,7 +82,7 @@ body {
 
 .TODO p {
     font-size: 14px;
-    margin: auto;
+    margin: 0;
     opacity: 0.75;
     padding: 2.5px
 }

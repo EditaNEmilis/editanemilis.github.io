@@ -42,6 +42,11 @@ button {
 /* Sub-Cargo */
 
 /* Tutorials */
+.Tutorials p {
+    font-size: 18px;
+    margin: 0;
+}
+
 .Tutorials i {
     color: rgba(0, 0, 0, 0.33);
     font-weight: bold;
