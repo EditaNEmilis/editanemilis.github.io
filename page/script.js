@@ -24,6 +24,20 @@ function SLSG() {
 
     click_audio.play();
 }
+// GETAWAY
+function GETAWAY() {
+    window.open("https://www.roblox.com/games/92000582462250/THE-GETAWAY");
+    console.log("..THE GETAWAY..")
+
+    click_audio.play();
+}
+// TTG
+function TTG() {
+    window.open("https://polytoria.com/places/12043");
+    console.log("..THE Test Ground..")
+
+    click_audio.play();
+}
 // ONaTI
 function ONaTI() {
     window.open("https://editagaming.itch.io/onati");
