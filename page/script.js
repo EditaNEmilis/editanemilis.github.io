@@ -52,3 +52,32 @@ function FA() {
 
     click_audio.play();
 }
+// Github Codes
+// Site
+function Site() {
+    window.open("https://github.com/EditaNEmilis/editanemilis.github.io");
+    console.log("Website code..")
+
+    click_audio.play();
+}
+// SOL
+function SOL() {
+    window.open("https://github.com/EditaNEmilis/ScriptieOfLua");
+    console.log("Scriptie of Lua..")
+
+    click_audio.play();
+}
+// UPBGE Vid
+function UPBGEVid() {
+    window.open("https://github.com/EditaNEmilis/UPBGE-Video");
+    console.log("UPBGE video script..")
+
+    click_audio.play();
+}
+// Game Dump
+function GameDump() {
+    window.open("https://github.com/EditaNEmilis/Game-Dump");
+    console.log("Game Dump..")
+
+    click_audio.play();
+}
