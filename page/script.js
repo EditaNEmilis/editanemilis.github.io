@@ -1,5 +1,6 @@
 // Variables
 var click_audio = new Audio('https://editanemilis.github.io/assets/audio/click.wav');
+var buzz_audio = new Audio('https://editanemilis.github.io/assets/audio/buzz.wav');
 
 /// Links
 // Return
@@ -8,6 +9,13 @@ function Return() {
     console.log("Going back..")
 
     click_audio.play();
+}
+// Abouts
+// Joeyinsully
+function Joey() {
+    console.log("OOOOOOOOPSSS work in progress lul.")
+
+    buzz_audio.play();
 }
 // Games
 // SWF
