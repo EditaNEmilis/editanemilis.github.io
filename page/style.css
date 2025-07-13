@@ -43,6 +43,11 @@ button {
     background-color: #9b9b9b;
 }
 
+.Cargo img {
+    width: 64px;
+    margin: 0;
+}
+
 /* Sub-Cargo */
 /* Tutorials */
 .Tutorials i {
