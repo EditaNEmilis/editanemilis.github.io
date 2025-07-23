@@ -2,6 +2,12 @@
 var click_audio = new Audio('https://editanemilis.github.io/assets/audio/click.wav');
 var buzz_audio = new Audio('https://editanemilis.github.io/assets/audio/buzz.wav');
 
+// Alert (or WIP)
+function Alert() {
+    buzz_audio.play();
+    alert("OOOOOOOOPSSS work in progress, lul.")
+}
+
 /// Links
 // Return
 function Return() {
@@ -10,12 +16,12 @@ function Return() {
 
     click_audio.play();
 }
-// Abouts
+// Abouts (LATER WIP..)
 // Joeyinsully
 function Joey() {
-    console.log("OOOOOOOOPSSS work in progress lul.")
+    console.log("Thy anglo of TTTE..")
 
-    buzz_audio.play();
+    click_audio.play();
 }
 // Games
 // SWF
