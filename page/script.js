@@ -17,6 +17,13 @@ function Return() {
     click_audio.play();
 }
 // Abouts (LATER WIP..)
+// Movie Show
+function MovieShow() {
+    window.open("https://editanemilis.github.io/page/abts/movieshow/index.html");
+    console.log("Movie Show time..")
+
+    click_audio.play();
+}
 // Joeyinsully
 function Joey() {
     console.log("Thy anglo of TTTE..")

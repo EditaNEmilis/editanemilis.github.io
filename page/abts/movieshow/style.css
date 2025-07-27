@@ -1,0 +1,24 @@
+/* Body */
+body {
+    max-width: 100%;
+    width: auto;
+}
+
+button {
+    display: block;
+    margin-block: 10px;
+    padding-block: 5px;
+    background-color: #aaaaaa;
+    border-radius: 5%;
+}
+
+button:hover {
+    background-color: #9b9b9b;
+}
+
+/* Cargo */
+#Cargo h1 {
+    margin: 0;
+    font-style: italic;
+    font-size: 26px;
+}
