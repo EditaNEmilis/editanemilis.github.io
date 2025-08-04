@@ -66,10 +66,18 @@ function ONaTI() {
 
     click_audio.play();
 }
+// Tutorials
 // Furaffinity
 function FA() {
     window.open("https://editanemilis.github.io/page/tuts/Furaffinity/index.html");
     console.log("Trollish time..")
+
+    click_audio.play();
+}
+// VNC
+function VNC() {
+    window.open("https://editanemilis.github.io/page/tuts/VNC/index.html");
+    console.log("Lil bit of desktop hopping....")
 
     click_audio.play();
 }
