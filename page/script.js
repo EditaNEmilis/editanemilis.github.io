@@ -3,6 +3,7 @@ var click_audio = new Audio('https://editanemilis.github.io/assets/audio/click.w
 var buzz_audio = new Audio('https://editanemilis.github.io/assets/audio/buzz.wav');
 
 // Alert (or WIP)
+// Only used if I'm lazy to make a new page later..
 function Alert() {
     buzz_audio.play();
     alert("OOOOOOOOPSSS work in progress, lul.")
@@ -26,6 +27,7 @@ function MovieShow() {
 }
 // Joeyinsully
 function Joey() {
+    window.open("https://editanemilis.github.io/page/abts/joeyinsully/index.html");
     console.log("Thy anglo of TTTE..")
 
     click_audio.play();

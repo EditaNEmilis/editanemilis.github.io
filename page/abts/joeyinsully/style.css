@@ -22,12 +22,3 @@ button:hover {
     font-style: italic;
     font-size: 26px;
 }
-
-#Intro h1 {
-    margin: 0;
-    word-wrap: normal;
-    width: 960px;
-    font-size: 22px;
-    font-style: normal;
-    font-weight: lighter;
-}
