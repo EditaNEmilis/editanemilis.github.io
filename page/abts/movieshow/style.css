@@ -19,7 +19,7 @@ button:hover {
 
 /* Cargo */
 #Cargo h1 {
-    margin: 0;
+    margin: 10px;
     font-style: italic;
     font-size: 26px;
 }
@@ -31,4 +31,23 @@ button:hover {
     font-size: 22px;
     font-style: normal;
     font-weight: lighter;
+}
+
+#Info1 h1 {
+    margin: 10px;
+    font-size: 28px;
+    font-style: normal;
+}
+
+#Info1 p {
+    margin: 0;
+    word-wrap: normal;
+    width: 960px;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: lighter;
+}
+
+#Info1 p b {
+    font-weight: bold;
 }
