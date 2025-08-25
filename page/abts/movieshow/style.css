@@ -33,13 +33,13 @@ button:hover {
     font-weight: lighter;
 }
 
-#Info1 h1 {
+#Infos h1 {
     margin: 10px;
     font-size: 28px;
     font-style: normal;
 }
 
-#Info1 p {
+#Infos p {
     margin: 0;
     word-wrap: normal;
     width: 960px;
@@ -48,6 +48,15 @@ button:hover {
     font-weight: lighter;
 }
 
-#Info1 p b {
+#Infos p b {
     font-weight: bold;
+}
+
+#Infos li {
+    font-size: 20px;
+}
+
+#Info2 button {
+    width: 200px;
+    font-style: italic;
 }
