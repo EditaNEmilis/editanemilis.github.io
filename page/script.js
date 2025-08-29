@@ -112,3 +112,11 @@ function GameDump() {
 
     click_audio.play();
 }
+
+// VMAF
+function VMAF() {
+    window.open("https://github.com/EditaNEmilis/VMAFApp");
+    console.log("Just to compare video quality..")
+
+    click_audio.play();
+}
