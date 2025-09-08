@@ -60,3 +60,7 @@ button:hover {
     width: 200px;
     font-style: italic;
 }
+
+#Outro p {
+    width: 580px;
+}
