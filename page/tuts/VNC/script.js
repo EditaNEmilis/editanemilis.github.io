@@ -9,3 +9,12 @@ function Return() {
 
     click_audio.play();
 }
+
+/// Functions
+// Red Text Blinker
+setInterval(() => {
+    const h1 = document.querySelector('.Intro h1');
+    if (h1) {
+        h1.style.opacity = h1.style.opacity === '0' ? '1' : '0';
+    }
+}, 1000);

@@ -18,8 +18,15 @@ button:hover {
 }
 
 /* Cargo */
-#Cargo h1 {
+.Cargo h1 {
     margin: 0;
     font-style: italic;
     font-size: 26px;
+}
+
+.Intro h1 {
+    font-style: normal;
+    font-size: 30px;
+    color: red;
+    opacity: 1; /* At start */
 }
