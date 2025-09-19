@@ -68,6 +68,13 @@ function ONaTI() {
 
     click_audio.play();
 }
+// AGM
+function AGM() {
+    window.open("https://www.moddb.com/mods/a-gallery-mod");
+    console.log("..Half-Life 2 mod showcase..")
+
+    click_audio.play();
+}
 // Tutorials
 // Furaffinity
 function FA() {
