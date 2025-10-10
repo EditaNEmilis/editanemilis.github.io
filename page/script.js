@@ -61,6 +61,14 @@ function TTG() {
 
     click_audio.play();
 }
+
+// Ragdoll Physics
+function RagPhy() {
+    window.open("https://polytoria.com/places/12396");
+    console.log("..Ragdoll Physics..")
+
+    click_audio.play();
+}
 // ONaTI
 function ONaTI() {
     window.open("https://editagaming.itch.io/onati");
