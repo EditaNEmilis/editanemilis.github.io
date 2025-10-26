@@ -18,6 +18,7 @@ function SWFGame() {
 
     click_audio.play();
 }
+
 // itch.io ALT
 function itchio() {
     window.open("https://editagaming.itch.io/quick-mouse-test");
@@ -25,6 +26,7 @@ function itchio() {
 
     click_audio.play();
 }
+
 // MFA Download
 function MFA(url, name) {
     var link = document.createElement("a");

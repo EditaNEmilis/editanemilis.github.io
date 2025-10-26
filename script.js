@@ -17,6 +17,7 @@ function OdyseeLink() {
 
     click_audio.play();
 }
+
 // Vidlii
 function VidLiiLink() {
     window.open("https://vidlii.com/user/ramanauskieneedita");
@@ -24,6 +25,7 @@ function VidLiiLink() {
 
     click_audio.play();
 }
+
 // Rumble
 function RumbleLink() {
     window.open("https://rumble.com/c/c-5907867");
@@ -31,6 +33,7 @@ function RumbleLink() {
 
     click_audio.play();
 }
+
 // Discord
 function DiscordLink() {
     window.open("https://discord.gg/nbD4gPN2RA")
@@ -38,6 +41,7 @@ function DiscordLink() {
 
     click_audio.play();
 }
+
 /// TXTs
 // Furaffinity Finest Death Threats
 function FFDT1(url, name) {
@@ -51,6 +55,7 @@ function FFDT1(url, name) {
 
     click_audio.play();
 }
+
 // Furaffinity Finest Death Threats
 function FFDT2(url, name) {
     var link = document.createElement("a");

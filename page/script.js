@@ -17,7 +17,8 @@ function Return() {
 
     click_audio.play();
 }
-// Abouts (LATER WIP..)
+
+// Abouts
 // Movie Show
 function MovieShow() {
     window.open("https://editanemilis.github.io/page/abts/movieshow/index.html");
@@ -25,6 +26,7 @@ function MovieShow() {
 
     click_audio.play();
 }
+
 // Joeyinsully
 function Joey() {
     window.open("https://editanemilis.github.io/page/abts/joeyinsully/index.html");
@@ -32,6 +34,7 @@ function Joey() {
 
     click_audio.play();
 }
+
 // Games
 // SWF
 function SWFGame() {
@@ -40,6 +43,7 @@ function SWFGame() {
 
     click_audio.play();
 }
+
 // SLSG
 function SLSG() {
     window.open("https://www.roblox.com/games/11629837251/Simple-LUA-Showcase-Game");
@@ -47,6 +51,7 @@ function SLSG() {
 
     click_audio.play();
 }
+
 // GETAWAY
 function GETAWAY() {
     window.open("https://www.roblox.com/games/92000582462250/THE-GETAWAY");
@@ -54,6 +59,7 @@ function GETAWAY() {
 
     click_audio.play();
 }
+
 // TTG
 function TTG() {
     window.open("https://polytoria.com/places/12043");
@@ -69,6 +75,7 @@ function RagPhy() {
 
     click_audio.play();
 }
+
 // ONaTI
 function ONaTI() {
     window.open("https://editagaming.itch.io/onati");
@@ -76,6 +83,7 @@ function ONaTI() {
 
     click_audio.play();
 }
+
 // AGM
 function AGM() {
     window.open("https://www.moddb.com/mods/a-gallery-mod");
@@ -83,6 +91,7 @@ function AGM() {
 
     click_audio.play();
 }
+
 // Tutorials
 // Furaffinity
 function FA() {
@@ -91,6 +100,7 @@ function FA() {
 
     click_audio.play();
 }
+
 // VNC
 function VNC() {
     window.open("https://editanemilis.github.io/page/tuts/VNC/index.html");
@@ -98,6 +108,7 @@ function VNC() {
 
     click_audio.play();
 }
+
 // Github Codes
 // Site
 function Site() {
@@ -106,6 +117,7 @@ function Site() {
 
     click_audio.play();
 }
+
 // SOL
 function SOL() {
     window.open("https://github.com/EditaNEmilis/ScriptieOfLua");
@@ -113,6 +125,7 @@ function SOL() {
 
     click_audio.play();
 }
+
 // UPBGE Vid
 function UPBGEVid() {
     window.open("https://github.com/EditaNEmilis/UPBGE-Video");
@@ -120,6 +133,7 @@ function UPBGEVid() {
 
     click_audio.play();
 }
+
 // Game Dump
 function GameDump() {
     window.open("https://github.com/EditaNEmilis/Game-Dump");
