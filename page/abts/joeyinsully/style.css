@@ -23,3 +23,22 @@ button:hover {
     font-style: italic;
     font-size: 26px;
 }
+
+#Quote h1 {
+    margin-top: 10px;
+    font-weight: normal
+}
+
+#Quote p {
+    font-size: 18px;
+}
+
+#Intro h1 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+}
+
+#Intro h1 i {
+    font-style: italic;
+}
