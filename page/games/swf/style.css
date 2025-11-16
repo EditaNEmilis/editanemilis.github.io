@@ -4,6 +4,7 @@ body {
     width: auto;
 }
 
+/* Buttons */
 button {
     display: block;
     margin-block: 10px;
@@ -28,6 +29,7 @@ button:hover {
     font-size: 20px;
 }
 
+/* List */
 #List h1 {
     margin: 10px;
     font-style: normal;

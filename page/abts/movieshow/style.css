@@ -24,6 +24,7 @@ button:hover {
     font-size: 26px;
 }
 
+/* Intro */
 #Intro h1 {
     margin: 0;
     word-wrap: normal;
@@ -33,6 +34,7 @@ button:hover {
     font-weight: lighter;
 }
 
+/* Infos */
 #Infos h1 {
     margin: 10px;
     font-size: 28px;
@@ -61,6 +63,7 @@ button:hover {
     font-style: italic;
 }
 
+/* Outro */
 #Outro p {
     width: 580px;
 }

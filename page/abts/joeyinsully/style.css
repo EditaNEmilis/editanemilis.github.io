@@ -24,6 +24,7 @@ button:hover {
     font-size: 26px;
 }
 
+/* Quote */
 #Quote h1 {
     margin-top: 10px;
     font-weight: normal
@@ -33,6 +34,7 @@ button:hover {
     font-size: 18px;
 }
 
+/* Intro */
 #Intro h1 {
     font-style: normal;
     font-weight: normal;
