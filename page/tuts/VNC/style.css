@@ -38,3 +38,16 @@ button:hover {
     width: auto;
     font-size: 22px;
 }
+
+/* Part 1 */
+.Part1 h1 {
+    margin: 15px;
+    font-size: 40px;
+}
+
+.Part1 p {
+    margin: 5px;
+    word-wrap: normal;
+    width: 800px;
+    font-size: 22px;
+}
