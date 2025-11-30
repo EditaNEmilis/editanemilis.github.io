@@ -20,7 +20,7 @@ function SWFGame() {
 }
 
 // itch.io ALT
-function itchio() {
+function ItchIO() {
     window.open("https://editagaming.itch.io/quick-mouse-test");
     console.log("Moving to itch.io..");
 
