@@ -6,7 +6,7 @@
 
 * **audio** - Audio for music or sound effects *(Whatever you call em)*.
 
-* **imgs** - Images for the website look and others.
+* **imgs** - Images for the website look and others (Images, icon, etc.).
 
 * **swf** - Flash SWFs, now with Ruffle support! (Plus Clickteam .mfa's, for free use)
 
