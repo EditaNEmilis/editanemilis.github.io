@@ -6,6 +6,7 @@
         <link rel="icon" type="image/x-icon" href="https://editanemilis.github.io/assets/imgs/favicon.ico">
         <link rel="stylesheet" href="style.css">
         <script src="script.js"></script>
+        <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
     </head>
     <body>
         <button onclick=Return()>Go back?</button>
@@ -17,7 +18,21 @@
                 <h1>• X and Y coordinates counter</h1>
                 <h1>• And Ruffle needed! <i>(If you want to play in browser..)</i></h1>
             </div>
+            <div id="Game">
+                <script>
+                    window.RufflePlayer = window.RufflePlayer || {}
+                    window.addEventListener("load", (event) => {
+                        const ruffle = window.RufflePlayer.newest();
+                        const player = ruffle.createPlayer();
+                        const container = document.getElementById("Game");
+
+                        container.appendChild(player);
+                        player.load("https://editanemilis.github.io/assets/swf/QuickMouseSWF.swf");
+                    });
+                </script>
+            </div>
             <div id="Buttons">
+                <h1>..OTHERS..</h1>
                 <button onclick=SWFGame()>Play Game</button>
                 <button onclick=ItchIO()>Play on Itch.io</button>
                 <button onclick=MFA()>Download MFA</button>
