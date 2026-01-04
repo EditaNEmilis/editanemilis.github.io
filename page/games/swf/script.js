@@ -14,7 +14,7 @@ function Return() {
 // Play SWF
 function SWFGame() {
     window.open("https://editanemilis.github.io/assets/swf/QuickMouseSWF.swf");
-    console.log("Playing the SWF..");
+    console.log("Playing the SWF file..");
 
     click_audio.play();
 }
@@ -35,7 +35,7 @@ function MFA(url, name) {
     url = ("https://editanemilis.github.io/assets/swf/QuickMouseSWF.mfa");
     link.href = url;
     link.click();
-    console.log("Downloading MFA..");
+    console.log("Downloading MFA file..");
 
     click_audio.play();
 }
