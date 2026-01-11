@@ -84,6 +84,22 @@ function ONaTI() {
     click_audio.play();
 }
 
+// NBDBTH
+function NBDBTH() {
+    window.open("https://editagaming.itch.io/nightmare-before-disney-back-to-hell");
+    console.log("..Nightmare Before Disney: Back to Hell, UPBGE game..")
+
+    click_audio.play();
+}
+
+// AFP
+function AFP() {
+    window.open("https://editagaming.itch.io/armory-first-person");
+    console.log("..Armory First Person, HTML game test..")
+
+    click_audio.play();
+}
+
 // AGM
 function AGM() {
     window.open("https://www.moddb.com/mods/a-gallery-mod");
