@@ -48,10 +48,10 @@ body {
 
 /* Misc */
 .Misc {
-    margin: auto;
+    margin-top: auto;
     width: 100%;
-    bottom: 0;
     text-align: center;
+    padding-bottom: 20px;
 }
 
 /* Contacts */
@@ -65,7 +65,7 @@ body {
     font-size: 14px;
     margin: auto;
     opacity: 0.420;
-    padding: 2.5px
+    padding: 2.5px;
 }
 
 /* TODO List */
@@ -85,5 +85,5 @@ body {
     font-size: 14px;
     margin: 0;
     opacity: 0.75;
-    padding: 2.5px
+    padding: 2.5px;
 }
