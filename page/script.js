@@ -36,6 +36,7 @@ function Joey() {
 }
 
 // Games
+///
 // SWF
 function SWFGame() {
     window.open("https://editanemilis.github.io/page/games/swf/index.html");
@@ -43,7 +44,9 @@ function SWFGame() {
 
     click_audio.play();
 }
+///
 
+///
 // SLSG
 function SLSG() {
     window.open("https://www.roblox.com/games/11629837251/Simple-LUA-Showcase-Game");
@@ -59,7 +62,9 @@ function GETAWAY() {
 
     click_audio.play();
 }
+///
 
+///
 // TTG
 function TTG() {
     window.open("https://polytoria.com/places/12043");
@@ -68,6 +73,7 @@ function TTG() {
     click_audio.play();
 }
 
+///
 // Ragdoll Physics
 function RagPhy() {
     window.open("https://polytoria.com/places/12396");
@@ -75,7 +81,9 @@ function RagPhy() {
 
     click_audio.play();
 }
+///
 
+///
 // ONaTI
 function ONaTI() {
     window.open("https://editagaming.itch.io/onati");
@@ -99,7 +107,9 @@ function AFP() {
 
     click_audio.play();
 }
+///
 
+///
 // AGM
 function AGM() {
     window.open("https://www.moddb.com/mods/a-gallery-mod");
@@ -107,6 +117,7 @@ function AGM() {
 
     click_audio.play();
 }
+///
 
 // Tutorials
 // Furaffinity

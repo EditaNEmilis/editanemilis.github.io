@@ -56,7 +56,7 @@ function FFDT1(url, name) {
     click_audio.play();
 }
 
-// Furaffinity Finest Death Threats
+// Furaffinity Finest Death Threats (Calm)
 function FFDT2(url, name) {
     var link = document.createElement("a");
     link.download = name;
