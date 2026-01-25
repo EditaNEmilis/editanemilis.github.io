@@ -24,16 +24,15 @@ button:hover {
     font-size: 26px;
 }
 
-#Cargo p {
-    margin: 0;
-    font-size: 20px;
-}
-
-/* List */
-#List h1 {
+#Cargo h2 {
     margin: 10px;
     font-style: normal;
     font-size: 22px
+}
+
+#Cargo p {
+    margin: 0;
+    font-size: 20px;
 }
 
 /* Buttons */

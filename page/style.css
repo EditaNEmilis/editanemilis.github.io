@@ -40,6 +40,12 @@ button {
     font-size: 22px;
 }
 
+.Cargo h2 {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: normal;
+}
+
 .Cargo button:hover {
     background-color: #9b9b9b;
 }
@@ -58,24 +64,4 @@ button {
 
 .Tutorials i:hover {
     color: rgba(0, 0, 0, 1);
-}
-
-/* Games */
-.Games .ItchIo h1 {
-    margin-top: 5px;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: normal;
-}
-
-.Games .Roblox h1 {
-    font-size: 18px;
-    font-style: normal;
-    font-weight: normal;
-}
-
-.Games .Other h1 {
-    font-size: 18px;
-    font-style: normal;
-    font-weight: normal;
 }
