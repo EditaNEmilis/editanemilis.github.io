@@ -11,10 +11,10 @@ function Return() {
 }
 
 /// Functions
-// Red Text Blinker
+// setInterval
 setInterval(() => {
     const h1 = document.querySelector('.Intro h1');
     if (h1) {
-        h1.style.opacity = h1.style.opacity === '0' ? '1' : '0';
+        h1.style.opacity = h1.style.opacity === '0' ? '1' : '0'; // Red Text Blinker
     }
 }, 1000);
