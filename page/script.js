@@ -47,7 +47,7 @@ function SWFGame() {
 ///
 
 ///
-// SLSG
+// Simple Lua Showcase Game
 function SLSG() {
     window.open("https://www.roblox.com/games/11629837251/Simple-LUA-Showcase-Game");
     console.log("..Simple LUA Showcase Game..")
@@ -55,7 +55,7 @@ function SLSG() {
     click_audio.play();
 }
 
-// GETAWAY
+// THE GETAWAY
 function GETAWAY() {
     window.open("https://www.roblox.com/games/92000582462250/THE-GETAWAY");
     console.log("..THE GETAWAY..")
@@ -65,7 +65,7 @@ function GETAWAY() {
 ///
 
 ///
-// TTG
+// The Test Ground
 function TTG() {
     window.open("https://polytoria.com/places/12043");
     console.log("..THE Test Ground..")
@@ -84,7 +84,7 @@ function RagPhy() {
 ///
 
 ///
-// ONaTI
+// One Night at Treasure Island
 function ONaTI() {
     window.open("https://editagaming.itch.io/onati");
     console.log("..One NIGHT at Treasure Island, half-baked..")
@@ -92,7 +92,7 @@ function ONaTI() {
     click_audio.play();
 }
 
-// NBDBTH
+// Nightmare Before Disney: Back to Hell
 function NBDBTH() {
     window.open("https://editagaming.itch.io/nightmare-before-disney-back-to-hell");
     console.log("..Nightmare Before Disney: Back to Hell, UPBGE game..")
@@ -100,7 +100,7 @@ function NBDBTH() {
     click_audio.play();
 }
 
-// AFP
+// Armory First Person
 function AFP() {
     window.open("https://editagaming.itch.io/armory-first-person");
     console.log("..Armory First Person, HTML game test..")
@@ -110,7 +110,7 @@ function AFP() {
 ///
 
 ///
-// AGM
+// A Gallery Mod
 function AGM() {
     window.open("https://www.moddb.com/mods/a-gallery-mod");
     console.log("..Half-Life 2 mod showcase..")
@@ -153,7 +153,7 @@ function SOL() {
     click_audio.play();
 }
 
-// UPBGE Vid
+// UPBGE Video script
 function UPBGEVid() {
     window.open("https://github.com/EditaNEmilis/UPBGE-Video");
     console.log("UPBGE video script..")

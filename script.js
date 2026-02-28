@@ -18,7 +18,7 @@ function OdyseeLink() {
     click_audio.play();
 }
 
-// Vidlii
+// VidLii
 function VidLiiLink() {
     window.open("https://vidlii.com/user/ramanauskieneedita");
     console.log("..VidLii..")
