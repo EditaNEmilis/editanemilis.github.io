@@ -11,7 +11,7 @@ function Return() {
 }
 
 /// Functions
-// setInterval
+// setInterval function
 setInterval(() => {
     const h1 = document.querySelector('.Intro h1');
     if (h1) {

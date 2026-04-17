@@ -128,7 +128,7 @@ function FA() {
     click_audio.play();
 }
 
-// VNC
+// VNC (Virtual Network Computing)
 function VNC() {
     window.open("https://editanemilis.github.io/page/tuts/VNC/index.html");
     console.log("Lil bit of desktop hopping....")
@@ -145,7 +145,7 @@ function Site() {
     click_audio.play();
 }
 
-// SOL
+// SOL (Scriptie of Lua)
 function SOL() {
     window.open("https://github.com/EditaNEmilis/ScriptieOfLua");
     console.log("Scriptie of Lua..")
@@ -169,7 +169,7 @@ function GameDump() {
     click_audio.play();
 }
 
-// VMAF
+// VMAF (Video Multimethod Assessment Fusion)
 function VMAF() {
     window.open("https://github.com/EditaNEmilis/VMAFApp");
     console.log("Just to compare video quality..")

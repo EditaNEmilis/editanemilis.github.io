@@ -25,10 +25,10 @@
                     window.addEventListener("load", (event) => {
                         const ruffle = window.RufflePlayer.newest();
                         const player = ruffle.createPlayer();
-                        const container = document.getElementById("Game");
+                        const container = document.getElementById("Game"); // ID Container
 
                         container.appendChild(player);
-                        player.load("https://editanemilis.github.io/assets/swf/QuickMouseSWF.swf");
+                        player.load("https://editanemilis.github.io/assets/swf/QuickMouseSWF.swf"); // SWF game asset
                     });
                 </script>
             </div>
