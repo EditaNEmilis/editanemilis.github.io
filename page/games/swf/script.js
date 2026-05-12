@@ -9,6 +9,7 @@ function Return() {
 
     click_audio.play();
 }
+///
 
 /// Buttons
 // Play SWF
@@ -39,3 +40,4 @@ function MFA(url, name) {
 
     click_audio.play();
 }
+///

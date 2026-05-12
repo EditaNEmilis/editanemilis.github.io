@@ -9,6 +9,7 @@ function Return() {
 
     click_audio.play();
 }
+///
 
 /// Functions
 // setInterval function
@@ -18,3 +19,4 @@ setInterval(() => {
         h1.style.opacity = h1.style.opacity === '0' ? '1' : '0'; // Red Text Blinker
     }
 }, 1000);
+///
