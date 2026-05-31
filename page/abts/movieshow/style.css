@@ -44,7 +44,7 @@ button:hover {
 #Infos p {
     margin: 0;
     word-wrap: normal;
-    width: 960px;
+    width: 1080px;
     font-size: 22px;
     font-style: normal;
     font-weight: lighter;
@@ -66,5 +66,6 @@ button:hover {
 
 /* Outro */
 #Outro p {
+    margin-top: 40px;
     width: 580px;
 }
