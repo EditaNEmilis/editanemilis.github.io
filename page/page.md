@@ -2,8 +2,8 @@
 
 ### Info
 
-* **abts** - *Abouts* info for some peoples, only for storytelling (or annoying lolcow).
+* **abts** - *Abouts* info for some peoples and miscs, only for storytelling. *(or annoying lolcows)*
 
-* **games** - *Games* are just some HTML or random stuffs.. Plus Flash SWF games (sweet Ruffle support anyway!)
+* **games** - *Games* are just some HTML or random stuffs.. Plus Flash SWF games. *(sweet Ruffle support anyway!)*
 
 * **tus** - *Tutorials*, or just tutorials **FOR LOSERS!**. Unless you're a newbie here.
