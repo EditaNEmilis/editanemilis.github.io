@@ -176,4 +176,12 @@ function VMAF() {
 
     click_audio.play();
 }
+
+// SMV (Source Model Viewer)
+function SMV() {
+    window.open("https://github.com/EditaNEmilis/source-model-viewer");
+    console.log("Viewing Source models..")
+
+    click_audio.play();
+}
 ///
