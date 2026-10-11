@@ -5,7 +5,7 @@
 * **archive** - Archives of old contents before being replaced with a newer and updated version of the file.
 * **audio** - Audios for music or sound effects *(Whatever you call em..)*.
 * **imgs** - Images for the website look and others (Images, icon, etc.).
-* **swf** - Flash SWFs, now with Ruffle support! (Plus Clickteam .mfa's, for free use.)
-* **txts** - Text files for viewing. One for calm, and another **not so.**
+* **swf** - Flash SWFs, now with Ruffle support! (Plus Clickteam .mfa files, for free use.).
+* **txts** - Text files for viewing. One for calm, and another? **Not so...**
 
 Other contents can found be here or [Game-Dump](https://github.com/EditaNEmilis/Game-Dump) for game files.
