@@ -7,3 +7,20 @@
 * **games** - *Games* are just some HTML or other stuffs.. Plus Flash SWF games. *(sweet Ruffle support anyway!)*
 
 * **tuts** - ***Tut**orial***s**, or just tutorials **FOR LOSERS!**. Unless you're a newbie here.
+
+---
+
+### Subpages
+
+**Pages layer**
+
+* abts
+    * joeyinsully
+    * movieshow
+
+* games
+    * swf
+
+* tuts
+    * Furaffinity
+    * VNC
