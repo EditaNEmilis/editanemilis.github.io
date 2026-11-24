@@ -18,6 +18,14 @@ function OdyseeLink() {
     click_audio.play();
 }
 
+// Odysee
+function YouTubeLink() {
+    window.open("https://www.youtube.com/@EmilisHunter");
+    console.log("..YouTube, EmilisHunter..")
+
+    click_audio.play();
+}
+
 // VidLii
 function VidLiiLink() {
     window.open("https://vidlii.com/user/ramanauskieneedita");
